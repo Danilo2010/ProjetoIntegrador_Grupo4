@@ -16,9 +16,13 @@
           Dados pessoais: gênero, etnia, religião, estado civil, profissão, etc.
   
 # Funcionalidades
-     Pretentendemos produzir demonstrações através de DASHBOARD, dos indicadores disponibilizados, com análise comportamental do histórico de crédito. Para a tarefa, faremos uso de planilhas extraídas em SQL, da arquitetura de dados da empresa parceira e trataremos as informações com o POWER BI (MICROSOFT), de modo a fornecer visualizações interactivas e recursos de business intelligence com uma interface simples para que os usuários finais.
-     O POWER BI possui duas linguagens atreladas a ele que permitem potencializar as funcionalidades por quem o explora. São elas, a DAX (Data Analysis Expressions) e linguagem M (Power Query Formula Language).
-     Para gerenciarmos o projeto em suas fase de execução à entrega, faremos uso da metodologia SCRUM.
+   Pretentendemos produzir demonstrações através de DASHBOARD, dos indicadores disponibilizados, com análise comportamental do 
+   histórico de crédito. Para a tarefa, faremos uso de planilhas extraídas em SQL, da arquitetura de dados da empresa parceira
+   e trataremos as informações com o POWER BI (MICROSOFT), de modo a fornecer visualizações interactivas e recursos de business
+   intelligence com uma interface simples para que os usuários finais.
+   O POWER BI possui duas linguagens atreladas a ele que permitem potencializar as funcionalidades por quem o explora. São elas,
+   a DAX (Data Analysis Expressions) e linguagem M (Power Query Formula Language).
+   Para gerenciarmos o projeto em suas fase de execução à entrega, faremos uso da metodologia SCRUM.
  
  # Equipe (grupo 4)
    GABRIEL PINHEIRO DE ASSIS (PRODUCT OWNER)
@@ -28,5 +32,5 @@
    FELIPE PROENCA DE GODOY
   
   # Professores Orientadores
-    CLAUDIO ETELVINO DE LIMA
-    JULIANA FORIN PASQUINI MARTINEZ
+  CLAUDIO ETELVINO DE LIMA
+  JULIANA FORIN PASQUINI MARTINEZ
